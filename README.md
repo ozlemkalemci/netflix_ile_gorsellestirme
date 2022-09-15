@@ -1,0 +1,2 @@
+# netflix_ile_gorsellestirme
+netflix_ile_gorsellestirme
